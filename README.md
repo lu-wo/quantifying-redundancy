@@ -1,8 +1,8 @@
 <div align="center">
 
-# Quantifying the redundancy between prosody and linguistic content
+# Quantifying the redundancy between prosody and text
 
-## Language model-based probing of text for extra-linguistic features
+[![Paper EMNLP 2023](http://img.shields.io/badge/paper-arxiv.2206.08672-B31B1B.svg)](https://arxiv.org/abs/2311.17233)
 
 ### Prosody Experiments Super Quick Start:
 
